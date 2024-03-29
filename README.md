@@ -5,4 +5,5 @@ I also derive great satisfaction from sharing my knowledge, so you can find here
 
 ### How to reach me 📫
 ResearchGate: https://www.researchgate.net/profile/Agnieszka-Florkowska
+
 LinkedIn: https://www.linkedin.com/in/agnieszka-florkowska-56b214202/
