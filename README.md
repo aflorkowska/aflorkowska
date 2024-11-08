@@ -33,26 +33,44 @@ Moreover, I also derive great satisfaction from sharing my knowledge and learnin
 </table>
 
 - ARTICLES
-<table>
-<tr>
-  <td>
-
-|Title | Type | Code |
-|--|--|--|
-| [Metrological Analysis of HoloLens 2 for Visual Marker-Based Surgical Navigation ](https://ieeexplore.ieee.org/document/10355714) | Conference | [Code](https://github.com/aflorkowska/MA_HL2_VMBSV-Charts) |
-</td></tr> 
+<table style="width:100%; table-layout:auto;">
+  <tr>
+    <th style="width:40%;">Title</th>
+    <th style="width:30%;">Type</th>
+    <th style="width:30%;">Code</th>
+  </tr>
+  <tr>
+    <td><a href="https://ieeexplore.ieee.org/document/10355714">Metrological Analysis of HoloLens 2 for Visual Marker-Based Surgical Navigation</a></td>
+    <td>Conference</td>
+    <td><a href="https://github.com/aflorkowska/MA_HL2_VMBSV-Charts">Code</a></td>
+  </tr>
 </table>
+
 
 - PROJECTS TO WHICH I HAVE ALSO CONTRIBUTED
-<table>
-<tr><td>
 
-|Title | Description | Technologies |
-|--|--|--|
-| [Histopathology<br>Augmentation<br>Research](https://github.com/Jarartur/HistopathologyAugmentationResearch) | Library for working with histopatological whole-slide images that <br> covers tasks like: data augmentation, classification and segmentation. <br> I contributed by adding script that allows generating masks <br> saved as PYRAMIDAL TIFFs based on xml annotations files. <br> You can find it [here](https://github.com/aflorkowska/XML-to-TIFF-converter). | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) | 
-| [ECG-Analyzer](https://github.com/dadm2022/ECG-Analyzer) | Desktop application that allows analyzing ecg signals. I contributed by <br>implementing filtering algorithms. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | 
-</td></tr> 
+<table style="width:100%; table-layout:auto;">
+  <tr>
+    <th style="width:40%;">Title</th>
+    <th style="width:40%;">Description</th>
+    <th style="width:20%;">Technologies</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Jarartur/HistopathologyAugmentationResearch">Histopathology<br>Augmentation<br>Research</a></td>
+    <td>Library for working with histopathological whole-slide images that covers tasks like: data augmentation, classification, and segmentation. I contributed by adding a script that allows generating masks saved as PYRAMIDAL TIFFs based on XML annotation files. You can find it <a href="https://github.com/aflorkowska/XML-to-TIFF-converter">here</a>.</td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch" />
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/dadm2022/ECG-Analyzer">ECG-Analyzer</a></td>
+    <td>Desktop application that allows analyzing ECG signals. I contributed by implementing filtering algorithms.</td>
+    <td>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+    </td>
+  </tr>
 </table>
+
 
 ### My recommendations for learning
 <table>
