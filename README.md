@@ -10,7 +10,7 @@ Moreover, I also derive great satisfaction from sharing my knowledge and learnin
 
 |Title | Description | Technologies |
 |--|--|--|
-| [Image-Processing]([https://github.com/drkostas/Minecraft-AI](https://github.com/aflorkowska/Image-Processing)) | Explanation of some image processing techniques, from scratch. It covers topics related to eg. filtering, morphological operations, transformations and feature extractions. | ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | 
+| [Image-Processing]([https://github.com/drkostas/Minecraft-AI](https://github.com/aflorkowska/Image-Processing)) | Explanation of some image processing techniques, from scratch.<br>It covers topics related to eg. <br>filtering, morphological operations, transformations and feature extractions. | ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | 
 
 </td></tr> 
 </table>
