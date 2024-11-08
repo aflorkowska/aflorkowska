@@ -20,13 +20,24 @@ Moreover, I also derive great satisfaction from sharing my knowledge and learnin
 </td></tr> 
 </table>
 
-- ADDITIONAL PROJECTS TO WHICH I HAVE CONTRIBUTED
+- ARTICLES
+<table>
+<tr>
+  <td>
+
+|Title | Code |
+|--|--|
+| [Metrological Analysis of HoloLens 2 for Visual Marker-Based Surgical Navigation ](https://ieeexplore.ieee.org/document/10355714) | [Code](https://github.com/aflorkowska/MA_HL2_VMBSV-Charts) |
+</td></tr> 
+</table>
+
+- PROJECTS TO WHICH I HAVE ALSO CONTRIBUTED
 <table>
 <tr><td>
 
 |Title | Description | Technologies |
 |--|--|--|
-| [Histopathology<br>Augmentation<br>Research](https://github.com/Jarartur/HistopathologyAugmentationResearch) | Library for working with histopatological whole-slide images that <br> covers tasks like: data augmentation, classification and segmentation. <br> I contributed by adding script that allows generating masks <br> saved as PYRAMIDAL TIFFs based on xml annotations files. <br> You can find also this converter [here](https://github.com/aflorkowska/XML-to-TIFF-converter) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) | 
+| [Histopathology<br>Augmentation<br>Research](https://github.com/Jarartur/HistopathologyAugmentationResearch) | Library for working with histopatological whole-slide images that <br> covers tasks like: data augmentation, classification and segmentation. <br> I contributed by adding script that allows generating masks <br> saved as PYRAMIDAL TIFFs based on xml annotations files. <br> You can find it [here](https://github.com/aflorkowska/XML-to-TIFF-converter). | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) | 
 | [ECG-Analyzer](https://github.com/dadm2022/ECG-Analyzer) | Desktop application that allows analyzing ecg signals. I contributed by <br>implementing filtering algorithms. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | 
 </td></tr> 
 </table>
@@ -37,6 +48,6 @@ Moreover, I also derive great satisfaction from sharing my knowledge and learnin
 
 |Title | Description |
 |--|--|
-| [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning/) | If you are beginner and want to learn PyTorch from scratch. Repo contains not only<br>theory explanation, but also many practical tasks. | 
+| [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning/) | If you are beginner and want to learn PyTorch from scratch. Repo contains not <br>only theory explanation, but also many practical tasks. | 
 </td></tr> 
 </table>
