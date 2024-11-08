@@ -23,7 +23,7 @@ Moreover, I also derive great satisfaction from sharing my knowledge and learnin
   
 |Title | Description | Technologies |
 |--|--|--|
-| [Histopathology<br>Augmentation<br>Research](https://github.com/Jarartur/HistopathologyAugmentationResearch) | Library for working with histopatological whole-slide images <br>that covers tasks like: data augmentation, classification and segmentation. <br>I contributed by adding script that allows generating masks saved as PYRAMIDAL TIFFs based on xml annotations files. | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) | 
+| [Histopathology<br>Augmentation<br>Research](https://github.com/Jarartur/HistopathologyAugmentationResearch) | Library for working with histopatological whole-slide images <br>that covers tasks like: data augmentation, classification and segmentation. <br>I contributed by adding script that allows generating masks <br>saved as PYRAMIDAL TIFFs based on xml annotations files. | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) | 
 | [ECG-Analyzer](https://github.com/dadm2022/ECG-Analyzer) | Desktop application that allows analyzing ecg signals. I contributed by <br>implementing filterings algorithms. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | 
 </td></tr> 
 
