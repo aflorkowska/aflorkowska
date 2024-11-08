@@ -25,9 +25,9 @@ Moreover, I also derive great satisfaction from sharing my knowledge and learnin
 <tr>
   <td>
 
-|Title | Code |
-|--|--|
-| [Metrological Analysis of HoloLens 2 for Visual Marker-Based Surgical Navigation ](https://ieeexplore.ieee.org/document/10355714) | [Code](https://github.com/aflorkowska/MA_HL2_VMBSV-Charts) |
+|Title | Type | Code |
+|--|--|--|
+| [Metrological Analysis of HoloLens 2 for Visual Marker-Based Surgical Navigation ](https://ieeexplore.ieee.org/document/10355714) | Conference | [Code](https://github.com/aflorkowska/MA_HL2_VMBSV-Charts) |
 </td></tr> 
 </table>
 
