@@ -12,12 +12,24 @@ Moreover, I also derive great satisfaction from sharing my knowledge and learnin
     <th style="width:50%;">Description</th>
     <th style="width:30%;">Technologies</th>
   </tr>
-<tr>
-  <td>
-    
-| [Image-Processing](https://github.com/aflorkowska/Image-Processing) | Explanation of some image processing techniques, from scratch. ? It covers topics related to eg. filtering, morphological operations,? transformations and feature extractions. | ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) <br> ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy) | 
-| [Image-Registration]() | IN PROGRESS - it will be soon available. | ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) <br> ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)| 
-</td></tr> 
+  <tr>
+    <td>
+      <a href="https://github.com/aflorkowska/Image-Processing">Image-Processing</a>
+    </td>
+    <td>Explanation of some image processing techniques, from scratch. It covers topics related to eg. filtering, morphological operations, transformations, and feature extractions.</td>
+    <td>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy" />
+    </td>
+  </tr>
+  <tr>
+    <td>Image-Registration</td>
+    <td>IN PROGRESS - it will be soon available.</td>
+    <td>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy" />
+    </td>
+  </tr>
 </table>
 
 - ARTICLES
