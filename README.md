@@ -5,13 +5,25 @@ Moreover, I also derive great satisfaction from sharing my knowledge and learnin
 
 ### My projects
 - TUTORIALS
+
+<style>
+table {
+    width: 100%;
+    table-layout: auto;
+}
+th, td {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+</style>
+
 <table>
 <tr>
   <td>
     
 |Title | Description | Technologies |
 |--|--|--|
-| [Image-Processing](https://github.com/aflorkowska/Image-Processing) | Explanation of some image processing techniques, from scratch.<br>It covers topics related to eg. filtering, morphological operations,<br>transformations and feature extractions. | ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) <br> ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy) | 
+| [Image-Processing](https://github.com/aflorkowska/Image-Processing) | Explanation of some image processing techniques, from scratch. ? It covers topics related to eg. filtering, morphological operations,? transformations and feature extractions. | ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) <br> ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy) | 
 | [Image-Registration]() | IN PROGRESS - it will be soon available. | ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) <br> ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)| 
 </td></tr> 
 </table>
