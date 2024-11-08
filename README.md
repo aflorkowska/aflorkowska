@@ -12,6 +12,7 @@ Additional, there is a list of my recommendations:
 
 ### List of repos to which I contribute
 - [HistopathologyAugmentationResearch](https://github.com/Jarartur/HistopathologyAugmentationResearch) - also, check out [my repository XML-to-TIFF-converter](https://github.com/aflorkowska/XML-to-TIFF-converter), which is part of this project
+- [ECG-Analyzer](https://github.com/dadm2022/ECG-Analyzer)
 
 ### How to reach me 📫
 ResearchGate: https://www.researchgate.net/profile/Agnieszka-Florkowska
