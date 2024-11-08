@@ -9,7 +9,7 @@ Moreover, I also derive great satisfaction from sharing my knowledge and learnin
 
 ### My projects
 <table>
-<tr><th>Tutorials</th></tr>
+<tr><th>TUTORIALS</th></tr>
 <tr><td>
   
 |Title | Description | Technologies |
@@ -18,7 +18,7 @@ Moreover, I also derive great satisfaction from sharing my knowledge and learnin
 | [Image-Registration]() | IN PROGRESS - it will be soon available. | ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) <br> ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)| 
 </td></tr> 
 
-<tr><th>Additional projects to which I contribute</th></tr>
+<tr><th>ADDITIONAL PROJECTS TO WHICH I HAVE CONTRIBUTED</th></tr>
 <tr><td>
   
 |Title | Description | Technologies |
@@ -27,7 +27,7 @@ Moreover, I also derive great satisfaction from sharing my knowledge and learnin
 | [ECG-Analyzer](https://github.com/dadm2022/ECG-Analyzer) | Desktop application that allows analyzing ecg signals. I contributed by <br>implementing filtering algorithms. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | 
 </td></tr> 
 
-<tr><th>My recomendations for learning</th></tr>
+<tr><th>MY RECOMMENDATIONS FOR LEARNING</th></tr>
 <tr><td>
   
 |Title | Description 
