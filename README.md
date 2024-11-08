@@ -37,12 +37,14 @@ Moreover, I also derive great satisfaction from sharing my knowledge and learnin
   <tr>
     <th style="width:20%;">Title</th>
     <th style="width:50%;">Type</th>
-    <th style="width:30%;">Code</th>
+    <th style="width:15%;">Year</th>
+    <th style="width:15%;">Code</th>
   </tr>
   <tr>
     <td><a href="https://ieeexplore.ieee.org/document/10355714">Metrological Analysis of HoloLens 2 for Visual Marker-Based Surgical Navigation</a></td>
     <td>Conference</td>
     <td><a href="https://github.com/aflorkowska/MA_HL2_VMBSV-Charts">Code</a></td>
+    <td>2023</td>
   </tr>
 </table>
 
