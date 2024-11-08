@@ -6,18 +6,12 @@ Moreover, I also derive great satisfaction from sharing my knowledge and learnin
 ### My projects
 - TUTORIALS
 
-<style>
-table {
-    width: 100%;
-    table-layout: auto;
-}
-th, td {
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-}
-</style>
-
-<table>
+<table style="width:100%; table-layout:auto;">
+  <tr>
+    <th style="width:20%;">Title</th>
+    <th style="width:50%;">Description</th>
+    <th style="width:30%;">Technologies</th>
+  </tr>
 <tr>
   <td>
     
