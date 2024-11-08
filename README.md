@@ -43,8 +43,8 @@ Moreover, I also derive great satisfaction from sharing my knowledge and learnin
   <tr>
     <td><a href="https://ieeexplore.ieee.org/document/10355714">Metrological Analysis of HoloLens 2 for Visual Marker-Based Surgical Navigation</a></td>
     <td>Conference</td>
-    <td><a href="https://github.com/aflorkowska/MA_HL2_VMBSV-Charts">Code</a></td>
     <td>2023</td>
+    <td><a href="https://github.com/aflorkowska/MA_HL2_VMBSV-Charts">Code</a></td>
   </tr>
 </table>
 
