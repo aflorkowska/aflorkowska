@@ -14,8 +14,8 @@ Moreover, I also derive great satisfaction from sharing my knowledge and learnin
   
 |Title | Description | Technologies |
 |--|--|--|
-| [Image-Processing](https://github.com/aflorkowska/Image-Processing) | Explanation of some image processing techniques, from scratch.<br>It covers topics related to eg. filtering, morphological operations,<br>transformations and feature extractions. | ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy) | 
-| [Image-Registration]() | IN PROGRESS - it will be soon available. | ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)| 
+| [Image-Processing](https://github.com/aflorkowska/Image-Processing) | Explanation of some image processing techniques, from scratch.<br>It covers topics related to eg. filtering, morphological operations,<br>transformations and feature extractions. | ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) <br> ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy) | 
+| [Image-Registration]() | IN PROGRESS - it will be soon available. | ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) <br> ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)| 
 </td></tr> 
 
 <tr><th>Additional projects to which I contribute</th></tr>
@@ -32,6 +32,6 @@ Moreover, I also derive great satisfaction from sharing my knowledge and learnin
   
 |Title | Description 
 |--|--|
-| [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning/) | If you are beginner and want to learn PyTorch from scratch. Repo contains not only theory explanation,<br> but also many practical tasks. | 
+| [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning/) | If you are beginner and want to learn PyTorch from scratch. Repo contains not only<br>theory explanation, but also many practical tasks. | 
 </td></tr> 
 </table>
