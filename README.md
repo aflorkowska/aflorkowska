@@ -44,6 +44,6 @@ Moreover, I also derive great satisfaction from sharing my knowledge and learnin
 
 |Title | Description |
 |--|--|
-| [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning/) | If you are beginner and want to learn PyTorch from scratch. Repo contains not <br>only theory explanation, but also many practical tasks. | 
+| [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning/) | If you are beginner and want to learn PyTorch from scratch. This repo contains not <br>only theory explanation, but also many practical tasks. | 
 </td></tr> 
 </table>
