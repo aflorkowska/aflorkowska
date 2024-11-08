@@ -73,11 +73,14 @@ Moreover, I also derive great satisfaction from sharing my knowledge and learnin
 
 
 ### My recommendations for learning
-<table>
-<tr><td>
-
-|Title | Description |
-|--|--|
-| [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning/) | If you are beginner and want to learn PyTorch from scratch. This repo contains not <br>only theory explanation, but also many practical tasks. | 
-</td></tr> 
+<table style="width:100%; table-layout:auto;">
+  <tr>
+    <th style="width:50%;">Title</th>
+    <th style="width:50%;">Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mrdbourke/pytorch-deep-learning/">pytorch-deep-learning</a></td>
+    <td>If you are a beginner and want to learn PyTorch from scratch. This repo contains not only theory explanation but also many practical tasks.</td>
+  </tr>
 </table>
+
