@@ -23,8 +23,10 @@ Moreover, I also derive great satisfaction from sharing my knowledge and learnin
     </td>
   </tr>
   <tr>
-    <td>Image-Registration</td>
-    <td>IN PROGRESS - it will be soon available.</td>
+    <td>
+      <a href="https://github.com/aflorkowska/Image-Registration">Image-Registration</a>
+      </td>
+    <td>Explanation of some image registration techniques, from scratch. It covers topics related to eg: point clouds, surfaces, registration methods (3D to 3D, 3D to 2D, 2D to 2D).</td>
     <td>
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
       <img src="https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy" />
