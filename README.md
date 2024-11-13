@@ -18,8 +18,7 @@ Moreover, I also derive great satisfaction from sharing my knowledge and learnin
     </td>
     <td>Explanation of some image processing techniques, from scratch. It covers topics related to eg. filtering, morphological operations, transformations, and feature extractions.</td>
     <td>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy" />
+      <img src="https://img.shields.io/badge/Open3D-0098A6?style=flat-square&logo=open3d&logoColor=white" />
     </td>
   </tr>
   <tr>
