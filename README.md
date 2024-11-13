@@ -26,7 +26,7 @@ Moreover, I also derive great satisfaction from sharing my knowledge and learnin
     <td>
       <a href="https://github.com/aflorkowska/Image-Registration">Image-Registration</a>
       </td>
-    <td>Explanation of some image registration techniques, from scratch. It covers topics related to eg: point clouds, surfaces, registration methods (3D to 3D, 3D to 2D, 2D to 2D).</td>
+    <td>Explanation of some image registration techniques, from scratch. It covers topics related to eg: camera calibration, point clouds, surfaces, registration methods (3D to 3D, 3D to 2D, 2D to 2D).</td>
     <td>
       <img src="https://img.shields.io/badge/Open3D-0098A6?style=flat-square&logo=open3d&logoColor=white" />
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
